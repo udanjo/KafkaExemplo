@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/KafkaExemplo/v16
+/KafkaExemplo.Infra/bin/Debug/net5.0
+/KafkaExemplo.Infra/obj
+/KafkaExemplo.Messaging/bin/Debug/net5.0
+/KafkaExemplo.Messaging/obj
+/KafkaExemplo.WebApi/bin/Debug/net5.0
+/KafkaExemplo.WebApi/obj
